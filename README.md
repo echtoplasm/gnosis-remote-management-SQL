@@ -19,16 +19,6 @@ Comprehensive database design for a cybersecurity monitoring platform serving mu
 - **Development**: Advanced SQL procedures, triggers, and views
 - **Deployment**: Cross-platform (Arch Linux → Ubuntu production)
 
-### 📁 Project Structure
-```
-├── documentation/           # Complete project documentation (PDF)
-├── sql-scripts/
-│   ├── create-db-scripts/   # Database schema and data population
-│   ├── accounts.sql         # Three-tier user account management
-│   ├── docker-deployment/   # Container deployment configuration
-│   └── test-results/        # Query execution results and testing
-└── diagrams/                # Entity Relationship Diagrams
-```
 
 ### 🚀 Quick Start
 
