@@ -38,8 +38,8 @@ docker-compose up -d
 
 # Access phpMyAdmin
 # URL: http://localhost
-# Username: marklocklear
-# Password: gnosis:eval:abt,-2025
+# Username: [username]
+# Password: [redacted]
 # Database: gnosis_management
 ```
 
