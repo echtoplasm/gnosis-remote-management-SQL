@@ -22,6 +22,7 @@ Comprehensive database design for a cybersecurity monitoring platform serving mu
 
 ### 🚀 Quick Start
 
+
 #### Prerequisites
 - Docker and Docker Compose
 - Git
